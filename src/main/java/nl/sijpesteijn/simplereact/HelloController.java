@@ -1,4 +1,4 @@
-package nl.sijpesteijn.simplerest;
+package nl.sijpesteijn.simplereact;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

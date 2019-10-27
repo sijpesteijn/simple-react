@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nl.sijpesteijn</groupId>
-	<artifactId>simple-rest</artifactId>
+	<artifactId>simple-react</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>simple-rest</name>
+	<name>simple-react</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
